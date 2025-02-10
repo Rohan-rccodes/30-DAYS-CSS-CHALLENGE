@@ -1,0 +1,33 @@
+body{
+    margin: 0;padding: 0;
+    background-color: #dedede;
+}
+
+ul{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+ul li{
+    list-style: none;
+}
+ul li a{
+    position: relative;
+    width: 7%;
+    height: 70px;
+    display: block;
+    text-align: center;
+    margin: 0 10px;
+    border-radius: 50%;
+    padding: 6px;
+    box-sizing: border-box;
+    text-decoration: none;
+    box-shadow: 0 10px 15px rgba(0,0,0, 0.3);
+    background: linear-gradient(0deg, #dddddd, #f1f1f1);
+    transition: 0.5s;
+}
