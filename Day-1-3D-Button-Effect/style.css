@@ -54,13 +54,13 @@ ul li a:hover {
     color: #1457e6;
   }
   ul li:nth-child(2) a:hover .fa {
-    color: #000000;
+    color: #3fe8ff;
   }
   ul li:nth-child(3) a:hover .fa {
-    color: #f12206;
+    color: #4285f4;
   }
   ul li:nth-child(4) a:hover .fa {
-    color: #007BB6;
+    color: #3eb6ee;
   }
   ul li:nth-child(5) a:hover .fa {
     color: #e93093;
