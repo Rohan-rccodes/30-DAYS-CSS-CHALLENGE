@@ -1,5 +1,6 @@
 body{
-    margin: 0;padding: 0;
+    margin: 0;
+    padding: 0;
     background-color: #dedede;
 }
 
@@ -16,9 +17,10 @@ ul{
 ul li{
     list-style: none;
 }
+
 ul li a{
     position: relative;
-    width: 7%;
+    width: 70%;
     height: 70px;
     display: block;
     text-align: center;
@@ -31,3 +33,19 @@ ul li a{
     background: linear-gradient(0deg, #dddddd, #f1f1f1);
     transition: 0.5s;
 }
+
+ul li:nth-child(1) a:hover .fa{
+    color: #3b5998;
+}
+ul li:nth-child(2) a:hover .fa {
+    color: #00ACED;
+  }
+  ul li:nth-child(3) a:hover .fa {
+    color: #DD4B39;
+  }
+  ul li:nth-child(4) a:hover .fa {
+    color: #007BB6;
+  }
+  ul li:nth-child(5) a:hover .fa {
+    color: #BC2A8D;
+  }
