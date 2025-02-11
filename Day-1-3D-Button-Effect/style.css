@@ -31,7 +31,7 @@ body {
     text-decoration: none;
     box-shadow: 0 10px 15px rgba(0, 0, 0, .3);
     background: linear-gradient(0deg, #DDDDDD, #FFFFFF);
-    transition: .5s;
+    transition: .3s ease;
   }
 
 ul li a:hover {
@@ -46,7 +46,7 @@ ul li a:hover {
     line-height: 50px;
     font-size: 24px;
     color: #333;
-    transition: 0.3s;
+    transition: 0.3s ease;
     background: linear-gradient(0deg, #FFFFFF, #DDDDDD);
   }
 
@@ -57,17 +57,18 @@ ul li a:hover {
     color: #3fe8ff;
   }
   ul li:nth-child(3) a:hover .fa {
-    color: #4285f4;
+    color: #04c963;
   }
   ul li:nth-child(4) a:hover .fa {
-    color: #3eb6ee;
+    color: #4285f4;
   }
   ul li:nth-child(5) a:hover .fa {
     color: #e93093;
   }
   ul li:nth-child(6) a:hover .fa {
-    color: #fbe332;
+    color: #3eb6ee;
   }
   ul li:nth-child(7) a:hover .fa {
-    color: #04c963;
+    color: #fbe332;
   }
+  
