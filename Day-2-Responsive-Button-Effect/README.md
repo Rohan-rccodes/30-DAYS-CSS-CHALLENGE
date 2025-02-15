@@ -8,6 +8,8 @@
 
 🌈 Styling Options: Customize colors, shadows, and borders for uniqueness.
 
+## Preview : ------
+<img href="">
 ## Follow Along 👣
 
 Feel free to check out my progress, provide feedback, or even join the challenge yourself! Let’s make web design fun and exciting together! 🌈
