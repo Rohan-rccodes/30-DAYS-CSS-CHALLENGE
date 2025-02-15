@@ -1,19 +1,12 @@
-# 30 Day CSS Challenge 🎨✨
+## Day-2-Responsive-Button-Effect✨
 
-Welcome to my 30 Day CSS Challenge! 🚀 
-In this project, I’m diving into the world of web design by creating small projects and webpages using HTML and CSS. Join me on this exciting journey as I explore creativity and enhance my skills!
+🔧 Button Structure: Learn to set up the HTML for a 3D button.
 
-## What to Expect 🧐
+✨ 3D Transformations: Apply CSS transform for a realistic 3D effect.
 
-- Daily Projects: Each day, I’ll be working on a new project to apply what I’ve learned.
-- HTML & CSS Focus: All projects will be built using just HTML and CSS, showcasing the power of these technologies.
-- Interactive Designs: I’ll incorporate emojis and icons to make the projects visually appealing and engaging! 🎉
+🎨 Hover Effects: Add interactive animations for a raised and pressed look.
 
-## Challenge Goals 🎯
-
-- Improve my CSS skills and techniques.
-- Experiment with different layouts and designs.
-- Create a portfolio of mini-projects by the end of the challenge.
+🌈 Styling Options: Customize colors, shadows, and borders for uniqueness.
 
 ## Follow Along 👣
 
