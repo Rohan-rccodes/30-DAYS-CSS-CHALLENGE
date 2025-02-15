@@ -9,7 +9,8 @@
 🌈 Styling Options: Customize colors, shadows, and borders for uniqueness.
 
 ## Preview : ------
-<img href="https://github.com/Rohan-rccodes/30-DAYS-CSS-CHALLENGE/blob/main/Day-2-Responsive-Button-Effect/3D-Responsive-button.png?raw=true" width="500" height="300">
+<img src="https://github.com/Rohan-rccodes/WebDev-Workshop/blob/main/img/bgcolor-change.png" width="700">
+
 ## Follow Along 👣
 
 Feel free to check out my progress, provide feedback, or even join the challenge yourself! Let’s make web design fun and exciting together! 🌈
