@@ -8,8 +8,8 @@
 
 🌈 Styling Options: Customize colors, shadows, and borders for uniqueness.
 
-## Preview : ------
-<img src="https://github.com/Rohan-rccodes/WebDev-Workshop/blob/main/img/bgcolor-change.png" width="700">
+## Website Preview : ------
+<img src="https://github.com/Rohan-rccodes/30-DAYS-CSS-CHALLENGE/blob/main/Day-2-Responsive-Button-Effect/3D-Responsive-button.png" width="700">
 
 ## Follow Along 👣
 
