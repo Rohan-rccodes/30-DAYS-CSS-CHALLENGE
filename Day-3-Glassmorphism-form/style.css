@@ -5,4 +5,14 @@
 }
 body{
     background-color: #080710;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.iam{
+    color: #fff;
+    font-size: 3.5rem;
+    padding: 15px;
+    font-family: 'Roboto', sans-serif;
 }

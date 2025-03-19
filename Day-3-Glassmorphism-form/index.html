@@ -1,17 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Type writer Effect</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="iam">I am</div>
+    <div class="text"></div>
 
-    <div class="background">
-        <div class="shape"></div>
-        <div class="shape"></div>
-    </div>
-
-</body>
+    <!------Scrpit to activate typing effects----z-->
+    <script>
+      var typing = typed(".text", {
+        strings: [
+          "Web Developer",
+          "Graphics Designer",
+          "Freelancer",
+          "Youtuber",
+        ],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true,
+      });
+    </script>
+    
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.10/typed.js"
+      integrity="sha512-tQQXRDB2wEmuJGtFrmmoFYzNTq8StA1XJrfO0OQbbTxd9G0CwaTDL6/C1y805IlvBVrMwOqob1kf6r/2U5XXVg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+  </body>
 </html>
