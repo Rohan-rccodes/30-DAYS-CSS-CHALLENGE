@@ -1,18 +1,27 @@
 *{
-    margin:0;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
+    transition: all 0.3s ease;
 }
 body{
-    background-color: #080710;
+    background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
 }
 .iam{
-    color: #fff;
-    font-size: 3.5rem;
-    padding: 15px;
-    font-family: 'Roboto', sans-serif;
-}
+    color: white;
+      font-size: 55px;
+      padding: 15px;
+      /* font-family: sans-serif; */
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .text{
+    color: white;
+      border-right: 2px solid rgb(62, 216, 255);
+      font-size: 55px;
+      font-family: sans-serif;
+      color: rgb(62, 216, 255);
+  }

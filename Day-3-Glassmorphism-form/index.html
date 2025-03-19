@@ -5,14 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Type writer Effect</title>
     <link rel="stylesheet" href="style.css" />
+
+    <!---Linking the typed.js library--->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
   </head>
+
   <body>
-    <div class="iam">I am</div>
+    
+    <div class="iam">I am a </div>
     <div class="text"></div>
 
     <!------Scrpit to activate typing effects----z-->
     <script>
-      var typing = typed(".text", {
+      var typing =  new Typed(".text", {
         strings: [
           "Web Developer",
           "Graphics Designer",
@@ -24,12 +29,5 @@
         loop: true,
       });
     </script>
-    
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.10/typed.js"
-      integrity="sha512-tQQXRDB2wEmuJGtFrmmoFYzNTq8StA1XJrfO0OQbbTxd9G0CwaTDL6/C1y805IlvBVrMwOqob1kf6r/2U5XXVg=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    ></script>
   </body>
 </html>
